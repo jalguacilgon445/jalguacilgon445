@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud technologies and software development
 - 🌱 I’m currently learning DevOps tools and system integration techniques
 - 💞️ I’m looking to collaborate on anything that pushes me to the next level!
-- 📫 How to reach me --> jesus.alguacilgon@gmail.com
+- 📫 How to reach me --> jesus.alguacilgon@gmail.com, [Linkedin](https://www.linkedin.com/in/jesus-alguacil-gonzalez-946744a1/)
 - ⚡ Fun fact: I do real life lightsaber combat ⚔️, check it out!! --> [Ludosport.net](http://www.ludosport.net/)
 
 <!---
